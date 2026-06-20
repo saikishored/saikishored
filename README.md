@@ -1,16 +1,22 @@
-## Hi there 👋
+### Sai Kishore Dasamantharao
+**Cloud Architect · AWS Serverless & IaC · CDK TypeScript · Terraform · Event-Driven Architecture**
 
-<!--
-**saikishored/saikishored** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building production AWS systems for 7+ years — serverless architecture, event-driven systems, and infrastructure as code. Currently modernizing platform infrastructure for Thomson Reuters at Cognizant.
 
-Here are some ideas to get you started:
+Founder @ Ditrobiz Solutions Ltd (UK) — built a multi-tenant, serverless workflow automation platform on AWS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+**🔧 Core Stack**
+AWS CDK TypeScript · Terraform · Lambda · API Gateway · ECS/Fargate · DynamoDB · Cognito · CloudFront
+
+**📦 Published**
+- [`aws-cdk-k8s`](https://github.com/saikishored/aws-cdk-k8s) — CDK pattern to deploy self-managed Kubernetes clusters
+- [`jwks-byok`](https://github.com/saikishored/jwks-byok) — In-memory JWKS authorization with BYOK, a symmetric key rotation pattern for multi-tenant SaaS
+- [`jwt-keyring-benchmark`](https://github.com/saikishored/jwt-keyring-benchmark) — Performance benchmarking for the JWT Key Ring pattern
+
+**✍️ Writing**
+- [Stateless OTP Verification Without a Database](https://saikishored.hashnode.dev/stateless-otp-verification-without-a-database) — JWT cookie pattern for database-free OTP flows
+
+**🔗 Links**
+[LinkedIn](https://linkedin.com/in/dsaikishore) · [npm](https://npmjs.com/~dsaikishore) · [Portfolio](https://bold.pro/my/saikishored)
