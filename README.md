@@ -12,7 +12,7 @@ AWS CDK TypeScript · Terraform · Lambda · API Gateway · ECS/Fargate · Dynam
 
 **📦 Published**
 - [`aws-cdk-k8s`](https://github.com/saikishored/aws-cdk-k8s) — CDK pattern to deploy self-managed Kubernetes clusters
-- [`jwks-byok`](https://github.com/saikishored/jwks-byok) — In-memory JWKS authorization with BYOK, a symmetric key rotation pattern for multi-tenant SaaS
+- [`jwks-byok`](https://github.com/saikishored/jwks-byok) — In-memory JWKS authorization with BYOK, a symmetric key rotation pattern for multi-tenant SaaS (To be done)
 - [`jwt-keyring-benchmark`](https://github.com/saikishored/jwt-keyring-benchmark) — Performance benchmarking for the JWT Key Ring pattern
 
 **✍️ Writing**
